@@ -6,5 +6,5 @@ Coding practice for job interview
 
 | Problem ID | Solved | Type       | Description                                             |
 |:--------:|:--------:|:------------:|---------------------------------------------------------|
-|13460|[x]| DFS, recursive | TODO |
-|12100|[]| TODO | TODO |
+|13460|✅| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
+|TODO|| TODO | TODO |
