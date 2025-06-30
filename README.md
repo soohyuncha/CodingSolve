@@ -4,10 +4,10 @@ Coding practice for job interview
 ## Samsung SW Test from Baekjoon Online Judge (45 Problems)
 - https://www.acmicpc.net/workbook/view/1152
 
-| Count | BOJ ID | Solved | Type       | Description                                             |
-|:------:|:--------:|:--------:|:------------:|---------------------------------------------------------|
-|1|13460|✅| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
-|2|12100|✅| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
+| Count | BOJ ID | Solved | Level | Type       | Description                                             |
+|:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
+|1|13460|✅|🟊🟊🟊✩| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
+|2|12100|✅|🟊🟊✩✩| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
 |3|3190| |  | |
 |4|13458| |  | |
 |5|14499| |  | |
@@ -29,5 +29,8 @@ Coding practice for job interview
 |TODO|| TODO | TODO |
 
 ## Kakao SW Test from Programmers
-| Count | Year / Prob. ID | Solved | Type       | Description                                             |
-|:------:|:--------:|:--------:|:------------:|---------------------------------------------------------|
+- https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
+- 
+| Count | Year / Prob. ID | Solved | Level | Type       | Description                                             |
+|:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
+|1|24' Winter|✅|🟊✩✩✩| Data structure basic | |
