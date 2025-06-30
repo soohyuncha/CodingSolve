@@ -7,4 +7,5 @@ Coding practice for job interview
 | Problem ID | Solved | Type       | Description                                             |
 |:--------:|:--------:|:------------:|---------------------------------------------------------|
 |13460|✅| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
+|12100|✅| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
 |TODO|| TODO | TODO |
