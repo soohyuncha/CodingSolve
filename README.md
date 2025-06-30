@@ -1,11 +1,33 @@
 # CodingSolve
 Coding practice for job interview
 
-## Samsung SW Test from Baekjoon Online Judge
+## Samsung SW Test from Baekjoon Online Judge (45 Problems)
 - https://www.acmicpc.net/workbook/view/1152
 
-| Problem ID | Solved | Type       | Description                                             |
-|:--------:|:--------:|:------------:|---------------------------------------------------------|
-|13460|✅| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
-|12100|✅| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
+| Count | BOJ ID | Solved | Type       | Description                                             |
+|:------:|:--------:|:--------:|:------------:|---------------------------------------------------------|
+|1|13460|✅| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
+|2|12100|✅| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
+|3|3190| |  | |
+|4|13458| |  | |
+|5|14499| |  | |
+|6|14500| |  | |
+|7|14501| |  | |
+|8|14502| |  | |
+|9|14503| |  | |
+|10|14888| |  | |
+|11|14889| |  | |
+|12|14890| |  | |
+|13|14891| |  | |
+|14|15683| |  | |
+|15|15684| |  | |
+|16|15685| |  | |
+|17|15686| |  | |
+|18|16234| |  | |
+|19|16235| |  | |
+|20|16236| |  | |
 |TODO|| TODO | TODO |
+
+## Kakao SW Test from Programmers
+| Count | Year / Prob. ID | Solved | Type       | Description                                             |
+|:------:|:--------:|:--------:|:------------:|---------------------------------------------------------|
