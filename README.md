@@ -8,8 +8,8 @@ Coding practice for job interview
 |:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
 |1|13460|✅|🟊🟊🟊✩| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
 |2|12100|✅|🟊🟊✩✩| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
-|3|3190|✅|🟊✩✩✩ | Recursive ||
-|4|13458| |  | |
+|3|3190|✅|🟊✩✩✩| Recursive basic ||
+|4|13458|✅|🟊✩✩✩| Arithmetic basic ||
 |5|14499| |  | |
 |6|14500| |  | |
 |7|14501| |  | |
