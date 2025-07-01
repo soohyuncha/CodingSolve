@@ -31,6 +31,7 @@ Coding practice for job interview
 ## Kakao SW Test from Programmers
 - https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
 - 
-| Count | Year / Prob. ID | Solved | Level | Type       | Description                                             |
-|:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
-|1|24' Winter|✅|🟊✩✩✩| Data structure basic | |
+| Count | Year | Prob. ID | Solved | Level | Type       | Description                                             |
+|:------:|:--------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
+|1| 24' Internship Recruit | #1 |✅|🟊✩✩✩| Data structure basic | |
+|2| 23' Recruit | #1 |✅|🟊✩✩✩| String basic | |
