@@ -10,7 +10,7 @@ Coding practice for job interview
 |2|12100|✅|🟊🟊✩✩| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
 |3|3190|✅|🟊✩✩✩| Recursive basic ||
 |4|13458|✅|🟊✩✩✩| Arithmetic basic ||
-|5|14499| |  | |
+|5|14499|✅|🟊🟊✩✩| 2D map | <ul><li>Encoding dice rolls</li></ul> |
 |6|14500| |  | |
 |7|14501| |  | |
 |8|14502| |  | |
