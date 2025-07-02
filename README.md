@@ -27,6 +27,8 @@ Coding practice for job interview
 |19|16234| |  | |
 |20|16235| |  | |
 |21|16236| |  | |
+|22|17144| |  | | |
+|23|17143|✅|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Class objects management in the same position on 2D map</li></ul> |
 |TODO|| TODO | TODO |
 
 ## Kakao SW Test from Programmers
