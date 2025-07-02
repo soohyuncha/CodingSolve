@@ -11,7 +11,7 @@ Coding practice for job interview
 |3|3190|✅|🟊✩✩✩| Recursive basic ||
 |4|13458|✅|🟊✩✩✩| Arithmetic basic ||
 |5|14499|✅|🟊🟊✩✩| 2D map | <ul><li>Encoding dice rolls</li></ul> |
-|6|14500| |  | |
+|6|14500|✅|🟊🟊✩✩| Geometry basic | <ul><li>Rotation and symmetry</li></ul> |
 |7|14501| |  | |
 |8|14502| |  | |
 |9|14503| |  | |
