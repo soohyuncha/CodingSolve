@@ -4,7 +4,7 @@ Coding practice for job interview
 ## Samsung SW Test from Baekjoon Online Judge (45 Problems)
 - https://www.acmicpc.net/workbook/view/1152
 
-| Count | BOJ ID | Solved | Level | Type       | Description                                             |
+| Count | BOJ ID | Solved | Level | Type       | Description / Comment                                             |
 |:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
 |1|13460|✅|🟊🟊🟊✩| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
 |2|12100|✅|🟊🟊✩✩| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
@@ -12,7 +12,7 @@ Coding practice for job interview
 |4|13458|✅|🟊✩✩✩| Arithmetic basic ||
 |5|14499|✅|🟊🟊✩✩| 2D map | <ul><li>Encoding dice rolls</li></ul> |
 |6|14500|✅|🟊🟊✩✩| Geometry basic | <ul><li>Rotation and symmetry</li></ul> |
-|7|14501| |  | |
+|7|14501|✅|🟊✩✩✩| Recursive basic ||
 |8|14502| |  | |
 |9|14503| |  | |
 |10|14888| |  | |
