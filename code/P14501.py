@@ -1,3 +1,5 @@
+import sys
+sys.setrecursionlimit(10**6)
 
 def get_max(T_i, P_i, start, end):
     profit_max = 0
