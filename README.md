@@ -6,7 +6,7 @@ Coding practice for job interview
 
 | Count | BOJ ID | Solved | Level | Type       | Description / Comment                                             |
 |:------:|:--------:|:--------:|:------------:|:------------:|---------------------------------------------------------|
-|1|13460|✅|🟊🟊🟊✩| DFS, 2D map | <ul><li>Moving two marbles simultaneously</li></ul> |
+|1|13460|✅|🟊🟊🟊✩| DFS, 2D map | <ul><li>Moving two marbles simultaneously on 2D map</li></ul> |
 |2|12100|✅|🟊🟊✩✩| DFS, 2D map | <ul><li>Minor constraints (e.g., preprocessing zeros)</li></ul> |
 |3|3190|✅|🟊✩✩✩| Recursive basic ||
 |4|13458|✅|🟊✩✩✩| Arithmetic basic ||
@@ -28,7 +28,7 @@ Coding practice for job interview
 |20|16235| |  | |
 |21|16236| |  | |
 |22|17144| |  | | |
-|23|17143|✅|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Class objects & list</li></ul> |
+|23|17143|✅|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Handling class objects on 2D map using list</li></ul> |
 |TODO|| TODO | TODO |
 
 ## Kakao SW Test from Programmers
