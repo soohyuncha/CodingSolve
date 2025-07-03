@@ -29,6 +29,10 @@ Coding practice for job interview
 |21|16236| |  | |
 |22|17144| |  | | |
 |23|17143|✅|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Handling class objects on 2D map using list</li></ul> |
+|24|17140| | |  |  |
+|25|17142| | |  |  |
+|26|17779| | |  |  |
+|27|17837|✅|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Handling class objects on 2D map using list </li></ul> |
 |TODO|| TODO | TODO |
 
 ## Kakao SW Test from Programmers
