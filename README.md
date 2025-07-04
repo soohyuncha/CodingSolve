@@ -33,6 +33,7 @@ Coding practice for job interview
 |25|17142| | |  |  |
 |26|17779| | |  |  |
 |27|17837|🟊🟊🟊✩| 2D map, Data structure | <ul><li>Handling class objects on 2D map using list </li></ul> |
+|28|17822|🟊🟊✩✩| 2D map | <ul><li>Invalidation of adjacent elements on 2D map </li></ul> |
 
 ## Kakao SW Test from Programmers
 - https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
