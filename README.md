@@ -24,3 +24,4 @@ Coding practice for job interview
 |:----------------------:|:--------:|:--------:|:-------:|:--------------------:|---------------------------------------------------------|
 | 24' Internship Recruit | #1       |✅        | 🟊✩✩✩ | Data structure basic | |
 | 23' Recruit            | #1       |✅        | 🟊✩✩✩ | String basic         | |
+| 23' Recruit            | #3       |✅        | 🟊🟊✩✩ | Exhaustive search    | Searching all by recursive |
