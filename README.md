@@ -20,11 +20,12 @@ Coding practice for job interview
 ## Kakao SW Test from Programmers
 - https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
 - 
-| Year                   | Prob. ID | Solved   | Level   | Type                 | Description                                             |
-|:----------------------:|:--------:|:--------:|:-------:|:--------------------:|---------------------------------------------------------|
-| 24' Internship Recruit | #1       |✅        | 🟊✩✩✩ | Data structure basic | |
-| 23' Recruit            | #1       |✅        | 🟊✩✩✩ | String basic         | |
-| 23' Recruit            | #3       |✅        | 🟊🟊✩✩ | Exhaustive search    | Searching all by recursive |
-| 23' Recruit            | #4       |✅        | 🟊🟊✩✩ | Binary tree          | Good practice for binary tree |
-| 23' Recruit            | #5       |✅        | 🟊🟊🟊✩ | Union-find           | New algorithm to study... |
-| 23' Recruit            | #6       |✅        | 🟊🟊🟊✩ | DFS                  | Pruning unnecessary searching paths |
+| Year                   | Prob. ID | Level   | Type                 | Description                                             |
+|:----------------------:|:--------:|:-------:|:--------------------:|---------------------------------------------------------|
+| 24' Internship Recruit | #1       | 🟊✩✩✩  | Data structure basic | |
+| 24' Internship Recruit | #4       | 🟊✩✩✩  | Priority Queue       | Priority queue or greedy. Not naive DFS|
+| 23' Recruit            | #1       | 🟊✩✩✩  | String basic         | |
+| 23' Recruit            | #3       | 🟊🟊✩✩  | Exhaustive search    | Searching all by recursive |
+| 23' Recruit            | #4       | 🟊🟊✩✩  | Binary tree          | Good practice for binary tree |
+| 23' Recruit            | #5       | 🟊🟊🟊✩  | Union-find           | New algorithm to study... |
+| 23' Recruit            | #6       | 🟊🟊🟊✩  | DFS                  | Pruning unnecessary searching paths |
