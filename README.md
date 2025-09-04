@@ -23,7 +23,8 @@ Coding practice for job interview
 | Year                   | Prob. ID | Level   | Type                 | Description                                             |
 |:----------------------:|:--------:|:-------:|:--------------------:|---------------------------------------------------------|
 | 24' Internship Recruit | #1       | 🟊✩✩✩  | Data structure basic | |
-| 24' Internship Recruit | #4       | 🟊✩✩✩  | Priority Queue       | Priority queue or greedy. Not naive DFS|
+| 24' Internship Recruit | #4       | 🟊🟊🟊✩  | Priority Queue       | Priority queue or greedy. Not naive DFS|
+| 24' Internship Recruit | #5       | 🟊🟊🟊✩  | Greedy               | Greedy. Not naive DFS|
 | 23' Recruit            | #1       | 🟊✩✩✩  | String basic         | |
 | 23' Recruit            | #3       | 🟊🟊✩✩  | Exhaustive search    | Searching all by recursive |
 | 23' Recruit            | #4       | 🟊🟊✩✩  | Binary tree          | Good practice for binary tree |
