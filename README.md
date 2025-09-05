@@ -30,3 +30,4 @@ Coding practice for job interview
 | 23' Recruit            | #4       | 🟊🟊✩✩  | Binary tree          | Good practice for binary tree |
 | 23' Recruit            | #5       | 🟊🟊🟊✩  | Union-find           | New algorithm to study... |
 | 23' Recruit            | #6       | 🟊🟊🟊✩  | DFS                  | Pruning unnecessary searching paths |
+| 22' Recruit            | #2       | 🟊🟊🟊✩  | Queue                | Queue with greedy and memoization |
