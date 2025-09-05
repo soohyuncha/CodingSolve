@@ -5,6 +5,8 @@ def solution(n, k):
         for i in range(2, N):
             if N % i == 0:
                 return False
+            if i**2 > N:
+                return True
         return True
     def _is_type(num_str, i, j):
         if "0" in num_str[i:j+1]:
