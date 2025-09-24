@@ -17,9 +17,16 @@ Coding practice for job interview
 |17837  |🟊🟊🟊✩| 2D map, Data structure | <ul><li>Handling class objects on 2D map using list </li></ul> |
 |17822  |🟊🟊✩✩| 2D map | <ul><li>Invalidation of adjacent elements on 2D map </li></ul> |
 
+## Samsung SW Test from Codetree
+- https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description
+
+| Year           | Prob. ID | Level   | Type       | Description / Comment                                             |
+|:--------------:|:--------:|:-------:|:----------:|---------------------------------------------------------|
+| 25' 상반기 오전 | #1       | 🟊🟊✩✩  | 2D map     | Implementation & Simulation |
+
 ## Kakao SW Test from Programmers
 - https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
-- 
+  
 | Year                   | Prob. ID | Level   | Type                 | Description                                             |
 |:----------------------:|:--------:|:-------:|:--------------------:|---------------------------------------------------------|
 | 24' Internship Recruit | #1       | 🟊✩✩✩  | Data structure basic | |
