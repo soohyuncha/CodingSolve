@@ -20,9 +20,10 @@ Coding practice for job interview
 ## Samsung SW Test from Codetree
 - https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/mint-choco-milk/description
 
-| Year           | Prob. ID | Level   | Type       | Description / Comment                                             |
+| Year           | Prob. ID | Level   | Type       | Description / Comment                                   |
 |:--------------:|:--------:|:-------:|:----------:|---------------------------------------------------------|
 | 25' 상반기 오전 | #1       | 🟊🟊✩✩  | 2D map     | Implementation & Simulation |
+| 25' 상반기 오후 | #1       | 🟊🟊✩✩  | 2D map     | Implementation & Simulation |
 
 ## Kakao SW Test from Programmers
 - https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=58464
