@@ -23,6 +23,7 @@ Coding practice for job interview
 | Year           | Prob. ID | Level   | Type       | Description / Comment                                   |
 |:--------------:|:--------:|:-------:|:----------:|---------------------------------------------------------|
 | 25' 상반기 오전 | #1       | 🟊🟊✩✩  | 2D map     | Implementation & Simulation |
+| 25' 상반기 오전 | #2       | 🟊🟊🟊🟊  | Graph/BFS     | Priority queue and graph; Naive DFS, BFS both fail... |
 | 25' 상반기 오후 | #1       | 🟊🟊✩✩  | 2D map     | Implementation & Simulation |
 
 ## Kakao SW Test from Programmers
