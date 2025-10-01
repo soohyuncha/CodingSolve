@@ -41,4 +41,5 @@ Coding practice for job interview
 | 23' Recruit            | #6       | 🟊🟊🟊✩  | DFS                  | Pruning unnecessary searching paths |
 | 22' Internship         | #2       | 🟊🟊🟊✩  | Queue                | Queue with greedy and memoization |
 | 22' Recruit            | #2       | 🟊✩✩✩  | String               | String basic |
+| 22' Recruit            | #4       | 🟊🟊✩✩  | Recursive            | Simple recursive, but tricky condition |
 | 22' Recruit            | #5       | 🟊🟊🟊🟊  | Brute Force          | Exhaustive search. Not greedy |
