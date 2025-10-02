@@ -43,3 +43,4 @@ Coding practice for job interview
 | 22' Recruit            | #2       | 🟊✩✩✩  | String               | String basic |
 | 22' Recruit            | #4       | 🟊🟊✩✩  | Recursive            | Simple recursive, but tricky condition |
 | 22' Recruit            | #5       | 🟊🟊🟊🟊  | Brute Force          | Exhaustive search. Not greedy |
+| 21' Recruit            | #2       | 🟊✩✩✩  | Combination          | Combination basic |
